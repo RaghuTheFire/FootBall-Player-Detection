@@ -18,4 +18,4 @@ Here's a detailed summary of what the code does and how it distinguishes between
 
 - Display and Output: Writes the processed frame with highlighted regions to a directory. Displays the processed frame in a window labeled "Match Detection". Allows the user to quit the video playback by pressing 'q' and releases resources after completion.
 
-This code essentially detects players and football in a soccer match video and classifies players based on the color of their jerseys, marking them as either part of the France team or the Belgium team. The football is also detected and labeled accordingly.
+
