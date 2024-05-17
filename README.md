@@ -1,5 +1,5 @@
 # FootBall-Player-Detection
-
+# player_detection1.cpp player_detection2.cpp
 NO YOLO, NO TENSORFLOW, NO PYTORCH, ONLY OPENCV AND NUMPY 🖥️ Though we have become very advanced in all the approaches but its important to stick to your grounds, Pure computer vision-based image processing can give you a lot faster outputs and usable accuracy for less complex problems. 🛠️ The video demonstrates the below image processing techniques to detect players in an environment 🎥
 
 Here's a detailed summary of what the code does and how it distinguishes between players of different teams:
